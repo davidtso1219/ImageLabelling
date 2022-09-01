@@ -1,4 +1,4 @@
-# Object Detection
+# Image Labelling for Object Detection
 
 A repository for labeling images in a folder called target/
 
